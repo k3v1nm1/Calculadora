@@ -1,0 +1,32 @@
+
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+form{
+    padding: 10px;
+    width: 400px;
+    margin: auto;
+    align-content: center;
+    display: block;
+}
+.contenedor{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    max-width: 20em;
+}
+.contenedor2{
+    display: block;
+    margin: auto;
+    max-width: 20em;
+}    
+
+    body{
+    background-color: aliceblue;
+}
+
+button{
+    align-items: center;
+}
